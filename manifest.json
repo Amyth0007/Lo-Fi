@@ -1,6 +1,6 @@
 {
-  "name": "Awesome Calculator",
-  "short_name": "Calculator",
+  "name": "Lo-Fi",
+  "short_name": "music_player",
   "icons": [
     {
       "src": "./assets/icon-192.png",
